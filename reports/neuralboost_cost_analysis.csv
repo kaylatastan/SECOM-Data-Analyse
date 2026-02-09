@@ -1,0 +1,2 @@
+Model,XGBoost_Weight,ANN_Weight,Accuracy,Precision,Recall,F1_Score,ROC_AUC,PR_AUC,Default_Threshold,Optimal_Threshold,Cost_at_Default,Cost_at_Optimal,Cost_Savings,Cost_Savings_Pct,FN_Cost,FP_Cost
+NeuralBoost Ensemble (XGBoost + ANN),0.7,0.3,0.9331210191082803,0.9331210191082803,1.0,0.9654036243822076,0.6899073622623111,0.9662435343029467,0.5,0.01,210,210,0,0.0,500,10
