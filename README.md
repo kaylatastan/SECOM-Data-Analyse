@@ -1,4 +1,3 @@
-
 # 🏭 Semiconductor Manufacturing Defect Detection
 
 **UCI SECOM Dataset - Machine Learning Pipeline**
@@ -45,7 +44,7 @@ The SECOM dataset is provided by the UCI Machine Learning Repository for **educa
 
 ### 1. Environment Setup
 
-bash
+```bash
 # Clone repository
 git clone <repo-url>
 cd SECOM
@@ -57,8 +56,6 @@ python -m venv .venv
 
 # Install dependencies
 pip install -r requirements.txt
-
-```
 
 ### 2. Run the Pipeline
 
@@ -165,4 +162,3 @@ For questions about this project, please open an issue on the repository.
 ```
 
 ```
-
