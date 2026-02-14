@@ -1,6 +1,4 @@
-Elbette, dosyanın tamamını tek parça halinde aşağıda bulabilirsin. Bunu kopyalayıp `README.md` dosyanın içine yapıştırman yeterli olacaktır.
 
-```markdown
 # 🏭 Semiconductor Manufacturing Defect Detection
 
 **UCI SECOM Dataset - Machine Learning Pipeline**
@@ -47,7 +45,7 @@ The SECOM dataset is provided by the UCI Machine Learning Repository for **educa
 
 ### 1. Environment Setup
 
-```bash
+bash
 # Clone repository
 git clone <repo-url>
 cd SECOM
@@ -167,3 +165,4 @@ For questions about this project, please open an issue on the repository.
 ```
 
 ```
+
