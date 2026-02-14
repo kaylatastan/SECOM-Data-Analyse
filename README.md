@@ -46,7 +46,7 @@ The SECOM dataset is provided by the UCI Machine Learning Repository for **educa
 
 ```bash
 # Clone repository
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/kaylatastan/SECOM-Data-Analyse)
 cd SECOM
 
 # Create virtual environment
@@ -153,7 +153,7 @@ PCA experiments (see Appendix notebook) showed:
 
 ## 📧 Contact
 
-For questions about this project, please open an issue on the repository.
+linkedin: Kayla Taştan
 
 ---
 
@@ -162,3 +162,4 @@ For questions about this project, please open an issue on the repository.
 ```
 
 ```
+
