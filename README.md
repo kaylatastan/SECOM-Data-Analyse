@@ -104,7 +104,7 @@ SECOM/
 | Random Forest | 93% | 96.3% | 99.6% | Varies |
 | XGBoost | ~93% | Varies | Varies | Varies |
 | ANN | ~92% | Varies | Varies | Varies | 
-|Ensemble| ---------------------------------*
+|Ensemble| ---------------------------------
 *Note: Exact metrics depend on run; see notebook outputs for precise values.*
 
 ### Feature Engineering Insights
@@ -162,5 +162,6 @@ linkedin: Kayla Taştan
 ```
 
 ```
+
 
 
