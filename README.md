@@ -99,12 +99,12 @@ SECOM/
 
 ### Model Performance
 
-| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
+| Model | Accuracy | Precision | Recall | F1-Score 
 | --- | --- | --- | --- | --- | --- |
-| Random Forest | ~93% | Varies | Varies | Varies | ~0.80+ |
-| XGBoost | ~93% | Varies | Varies | Varies | ~0.75+ |
-| ANN | ~92% | Varies | Varies | Varies | ~0.55+ |
-
+| Random Forest | 93% | 96.3% | 99.6% | Varies |
+| XGBoost | ~93% | Varies | Varies | Varies |
+| ANN | ~92% | Varies | Varies | Varies | 
+|Ensemble| ---------------------------------*
 *Note: Exact metrics depend on run; see notebook outputs for precise values.*
 
 ### Feature Engineering Insights
@@ -162,4 +162,5 @@ linkedin: Kayla Taştan
 ```
 
 ```
+
 
